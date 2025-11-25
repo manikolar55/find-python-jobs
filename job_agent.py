@@ -60,9 +60,9 @@ TELEGRAM_CHAT_ID = ""    # chat id to send messages to
 # Notification via email (fallback)
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587  # Gmail uses 587
-SMTP_USER = "mani.kolar55@gmail.com"
-SMTP_PASS = "rtfz rvfn bbpl ikvt"
-EMAIL_TO = "mani.kolar55@gmail.com"
+SMTP_USER = ""
+SMTP_PASS = ""
+EMAIL_TO = ""
 EMAIL_FROM = SMTP_USER
 
 # Matching behaviour
